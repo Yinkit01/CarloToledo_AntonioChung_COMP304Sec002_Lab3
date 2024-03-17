@@ -1,0 +1,7 @@
+<resources>
+    <style name="Widget.Theme.CarloToledo_AntonioChung_COMP304Sec002_Lab3.ButtonBar.Fullscreen" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:background">@color/black_overlay</item>
+        <item name="android:buttonBarStyle">?android:attr/buttonBarStyle</item>
+        <item name="title">Airport Schedule</item>
+    </style>
+</resources>
